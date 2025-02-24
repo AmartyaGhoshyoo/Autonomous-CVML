@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+newsapi-python
+langchain-community
+google-generativeai
+unstructured
