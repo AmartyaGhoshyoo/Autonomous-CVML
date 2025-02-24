@@ -1,5 +1,7 @@
 News Summarizer 📢
 
+# Please enable the Light Theme in Streamlit by clicking on the three-dot menu in the top-right corner, selecting Settings, and choosing Light Theme under the Theme section
+
 A News Summarizer built with Streamlit, NewsAPI, and Google Generative AI (Gemini). This application fetches news articles from Times of India, extracts relevant content, and summarizes it to provide a more engaging and concise version for readers.
 
 🚀 Features
